@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitConverterAPI", "UnitConverterAPI\UnitConverterAPI.csproj", "{6EFB4AA6-701F-4CD3-8D78-54DA9830F1AC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitConverterAPITests1", "UnitConverterAPITests1\UnitConverterAPITests1.csproj", "{107955EB-5D0F-4A2C-A5B3-9E6BAE08441B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EFB4AA6-701F-4CD3-8D78-54DA9830F1AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EFB4AA6-701F-4CD3-8D78-54DA9830F1AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EFB4AA6-701F-4CD3-8D78-54DA9830F1AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EFB4AA6-701F-4CD3-8D78-54DA9830F1AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{107955EB-5D0F-4A2C-A5B3-9E6BAE08441B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{107955EB-5D0F-4A2C-A5B3-9E6BAE08441B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{107955EB-5D0F-4A2C-A5B3-9E6BAE08441B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{107955EB-5D0F-4A2C-A5B3-9E6BAE08441B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {472046C5-8EDB-40C8-9147-B61B4BF003C3}
+	EndGlobalSection
+EndGlobal
